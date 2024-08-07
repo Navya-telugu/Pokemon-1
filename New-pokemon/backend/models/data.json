@@ -1,0 +1,32 @@
+{
+  "users": [],
+  "pokemons": [
+    {
+      "ownerName": "Navya",
+      "name": "venusaur",
+      "ability": "overgrow",
+      "positionX": 1,
+      "positionY": 2,
+      "speed": 3,
+      "direction": "East"
+    },
+    {
+      "ownerName": "Navya",
+      "pokemonName": "venusaur",
+      "pokemonAbility": "overgrow",
+      "positionX": 1,
+      "positionY": 2,
+      "speed": 3,
+      "direction": "East"
+    },
+    {
+      "ownerName": "Navya",
+      "name": "venusaur",
+      "ability": "overgrow",
+      "positionX": 4,
+      "positionY": null,
+      "speed": null,
+      "direction": ""
+    }
+  ]
+}
